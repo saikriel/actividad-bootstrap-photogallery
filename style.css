@@ -1,0 +1,21 @@
+
+nav ul {
+
+}
+.parte1 {
+    background-image: url(assets/images/bg2.jpg);
+   padding: 100px;
+   text-align: center;
+   color: white;
+}
+.fotos {
+text-align: center;
+border-width: 10px;
+border-radius: 20px;
+}
+.fot {
+    text-align: center;
+}
+.parte2 {
+    padding-top:20px;
+}
